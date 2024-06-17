@@ -177,4 +177,102 @@ author_profile: true
   
 2018
 ======
-* Currently signed in to 43 different slack teams
+* Spatial weights matrix selection and model averaging for spatial autoregressive models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, J Yu</small><br>
+<small>*Journal of Econometrics* 203 (1), 1-18</small><br>
+
+* A Mallows-type model averaging estimator for the varying-coefficient partially linear model [[paper](https://doi.org/xxxxxxx)]<br>
+<small>R Zhu, ATK Wan, **X Zhang**, G Zou</small><br>
+<small>*Journal of the American Statistical Association* 114 (526), 882-892</small><br>
+
+* Functional prediction through averaging estimated functional linear regression models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, JM Chiou, Y Ma</small><br>
+<small>*Biometrika* 105 (4), 945-962</small><br>
+
+* Model averaging for multivariate multiple regression models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>R Zhu, G Zou, **X Zhang**</small><br>
+<small>*Statistics* 52 (1), 205-227</small><br>
+
+* Asymptotic properties and information criteria for misspecified generalized linear mixed models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>D Yu, **X Zhang**, KKW Yau</small><br>
+<small>*Journal of the Royal Statistical Society Series B: Statistical Methodology* 80 (4), 817-836</small><br>
+
+* A model averaging approach for the ordered probit and nested logit models with applications [[paper](https://doi.org/xxxxxxx)]<br>
+<small>L Chen, ATK Wan, G Tso, **X Zhang**</small><br>
+<small>*Journal of Applied Statistics* 45 (16), 3012-3052</small><br>
+
+* Optimal model averaging estimation for partial functional linear models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Z Rong, Z Guohua, **X Zhang**</small><br>
+<small>*Journal of Systems Science and Mathematical Sciences* 38 (7), 777</small><br>
+
+* A class of model averaging estimators [[paper](https://doi.org/xxxxxxx)]<br>
+<small>S Zhao, A Ullah, **X Zhang**</small><br>
+<small>*Economics Letters* 162, 101-106</small><br>
+
+* MODEL AVERAGING ESTIMATORS [[paper](https://doi.org/xxxxxxx)]<br>
+<small>S Zhao, A Ullah, **X Zhang**</small><br>
+<small>*Economics Letters* 162, 101-106</small><br>
+
+
+-----
+
+2017
+======
+
+
+-----
+
+2016
+======
+
+
+-----
+
+2015
+======
+
+
+-----
+
+2014
+======
+
+
+-----
+
+2013
+======
+
+
+-----
+
+2012
+======
+
+
+-----
+
+2011
+======
+
+
+-----
+
+2010
+======
+
+
+-----
+
+2009
+======
+
+
+
+
+
+
+
+
+
+
