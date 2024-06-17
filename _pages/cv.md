@@ -310,6 +310,29 @@ author_profile: true
 
 2013
 ======
+* Model averaging by jackknife criterion in models with dependent data [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, ATK Wan, G Zou</small><br>
+<small>*Journal of Econometrics* 174 (2), 82-94</small><br>
+
+* Adaptively combined forecasting for discrete response time series [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, Z Lu, G Zou</small><br>
+<small>*Journal of Econometrics* 176 (1), 80-91</small><br>
+
+* Model averaging with covariates that are missing completely at random [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**</small><br>
+<small>*Economics Letters* 121 (3), 360-363</small><br>
+
+* Information based model selection criteria for generalized linear mixed models with unknown variance component parameters [[paper](https://doi.org/xxxxxxx)]<br>
+<small>D Yu, **X Zhang**, KKW Yau</small><br>
+<small>*Journal of Multivariate Analysis* 116, 245-262</small><br>
+
+* Frequentist model averaging for linear mixed-effects models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>X Chen, G Zou, **X Zhang**</small><br>
+<small>*Frontiers of Mathematics in China* 8, 497-515</small><br>
+
+* Choice of weights in FMA estimators under general parametric models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>XY Zhang, GH Zou, H Liang</small><br>
+<small>*Science China Mathematics* 56, 443-457</small><br>
 
 
 -----
