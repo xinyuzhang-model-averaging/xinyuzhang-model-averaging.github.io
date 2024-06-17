@@ -211,13 +211,24 @@ author_profile: true
 
 * MODEL AVERAGING ESTIMATORS [[paper](https://doi.org/xxxxxxx)]<br>
 <small>S Zhao, A Ullah, **X Zhang**</small><br>
-<small>*Economics Letters* 162, 101-106</small><br>
+
 
 
 -----
 
 2017
 ======
+* A semiparametric generalized ridge estimator and link with model averaging [[paper](https://doi.org/xxxxxxx)]<br>
+<small>A Ullah, ATK Wan, H Wang, **X Zhang**, G Zou</small><br>
+<small>*Econometric Reviews* 36 (1-3), 370-384</small><br>
+
+* Linear model selection when covariates contain errors [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, H Wang, Y Ma, RJ Carroll</small><br>
+<small>*Journal of the American Statistical Association* 112 (520), 1553-1561</small><br>
+
+* Estimating varying coefficients for partial differential equation models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, J Cao, RJ Carroll</small><br>
+<small>*Biometrics* 73 (3), 949-959</small><br>
 
 
 -----
