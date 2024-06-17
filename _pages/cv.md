@@ -118,15 +118,61 @@ author_profile: true
 
 2020
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Model averaging in a multiplicative heteroscedastic model [[paper](https://doi.org/xxxxxxx)]<br>
+<small>S Zhao, Y Ma, ATK Wan, **X Zhang**, S Wang</small><br>
+<small>*Econometric Reviews* 39 (10), 1100-1124</small><br>
+-----
   
 2019
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Inference after model averaging in linear regression models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, CA Liu</small><br>
+<small>*Econometric Theory* 35 (4), 816-841</small><br>
+
+* Parsimonious model averaging with a diverging number of parameters [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, G Zou, H Liang, RJ Carroll</small><br>
+<small>*Journal of the American Statistical Association*</small><br>
+
+* Optimal model averaging estimation for partially linear models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, W Wang</small><br>
+<small>*Statistica Sinica* 29 (2), 693-718</small><br>
+
+* Frequentist model averaging for threshold models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Y Gao, **X Zhang**, S Wang, TT Chong, G Zou</small><br>
+<small>*Annals of the Institute of Statistical Mathematics* 71, 275-306</small><br>
+
+* Versatile HAR model for realized volatility: A least square model averaging perspective [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Y Qiu, **X Zhang**, T Xie, S Zhao</small><br>
+<small>*Journal of Management Science and Engineering* 4 (1), 55-73</small><br>
+
+* A demand forecasting method based on stochastic frontier analysis and model average: An application in air travel demand forecasting [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, Y Zheng, S Wang</small><br>
+<small>*Journal of Systems Science and Complexity* 32 (2), 615-633</small><br>
+
+* Model averaging based on leave-subject-out cross-validation for vector autoregressions [[paper](https://doi.org/xxxxxxx)]<br>
+<small>J Liao, X Zong, **X Zhang**, G Zou</small><br>
+<small>*Journal of Econometrics* 209 (1), 35-60</small><br>
+
+* To pool or not to pool: What is a good strategy for parameter estimation and forecasting in panel regressions? [[paper](https://doi.org/xxxxxxx)]<br>
+<small>W Wang, **X Zhang**, R Paap</small><br>
+<small>*Journal of Applied Econometrics* 34 (5), 724-745</small><br>
+
+* Detecting financial data dependence structure by averaging mixture copulas [[paper](https://doi.org/xxxxxxx)]<br>
+<small>G Liu, W Long, **X Zhang**, Q Li</small><br>
+<small>*Econometric Theory* 35 (4), 777-815</small><br>
+
+* Model averaging estimators for the stochastic frontier model [[paper](https://doi.org/xxxxxxx)]<br>
+<small>CF Parmeter, ATK Wan, **X Zhang**</small><br>
+<small>*Journal of Productivity Analysis* 51, 91-103</small><br>
+
+* MALMEM: model averaging in linear measurement error models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, Y Ma, RJ Carroll</small><br>
+<small>*Journal of the Royal Statistical Society Series B: Statistical Methodology* 81 (4), 763-779</small><br>
+
+* On the asymptotic distribution of model averaging based on information criterion [[paper](https://doi.org/xxxxxxx)]<br>
+<small>M Wang, **X Zhang**, ATK Wan, G Zou</small><br>
+<small>*arXiv preprint arXiv:1910.12208*</small><br>
+
   
 2018
 ======
