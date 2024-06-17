@@ -21,7 +21,7 @@ repository               : "XinyuZhang-AMSS/XinyuZhang-AMSS.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhang_profile.png"
   name             : "Xinyu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "CN: 张新雨"
