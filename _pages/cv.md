@@ -382,6 +382,21 @@ author_profile: true
 
 2009
 ======
+* Frequentist model averaging estimation: a review [[paper](https://doi.org/xxxxxxx)]<br>
+<small>H Wang, **X Zhang**, G Zou</small><br>
+<small>*Journal of Systems Science and Complexity* 22 (4), 732-748</small><br>
+
+* Empirical Likelihood‐Based Inferences for Generalized Partially Linear Models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>H Liang, Y Qin, **X Zhang**, D Ruppert</small><br>
+<small>*Scandinavian Journal of Statistics* 36 (3), 433-443</small><br>
+
+* On the use of model averaging in tourism research [[paper](https://doi.org/xxxxxxx)]<br>
+<small>ATK Wan, **X Zhang**</small><br>
+<small>*Annals of Tourism Research* 36 (3), 525-532</small><br>
+
+* Robustness of Stein-type estimators under a non-scalar error covariance structure [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, T Chen, ATK Wan, G Zou</small><br>
+<small>*Journal of Multivariate Analysis* 100 (10), 2376-2388</small><br>
 
 
 
