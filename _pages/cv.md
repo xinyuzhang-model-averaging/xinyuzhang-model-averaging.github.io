@@ -235,6 +235,33 @@ author_profile: true
 
 2016
 ======
+* Optimal model averaging estimation for generalized linear models and generalized linear mixed-effects models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, D Yu, G Zou, H Liang</small><br>
+<small>*Journal of the American Statistical Association* 111 (516), 1775-1790</small><br>
+
+* Model averaging based on leave-subject-out cross-validation [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Y Gao, **X Zhang**, S Wang, G Zou</small><br>
+<small>*Journal of Econometrics* 192 (1), 139-151</small><br>
+
+* Model averaging with averaging covariance matrix [[paper](https://doi.org/xxxxxxx)]<br>
+<small>S Zhao, **X Zhang**, Y Gao</small><br>
+<small>*Economics Letters* 145, 214-217</small><br>
+
+* On the dominance of Mallows model averaging estimator over ordinary least squares estimator [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, A Ullah, S Zhao</small><br>
+<small>*Economics Letters* 142, 69-73</small><br>
+
+* Weighted-average least squares prediction [[paper](https://doi.org/xxxxxxx)]<br>
+<small>JR Magnus, W Wang, **X Zhang**</small><br>
+<small>*Econometric Reviews* 35 (6), 1040-1074</small><br>
+
+* Selection Strategy for Covariance Structure of Random Effects in Linear Mixed‐effects Models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, H Liang, A Liu, D Ruppert, G Zou</small><br>
+<small>*Scandinavian Journal of Statistics* 43 (1), 275-291</small><br>
+
+* A model averaging stochastic frontier estimator [[paper](https://doi.org/xxxxxxx)]<br>
+<small>CF Parmeter, AT Wan, **X Zhang**</small><br>
+<small>*NAPW*</small><br>
 
 
 -----
