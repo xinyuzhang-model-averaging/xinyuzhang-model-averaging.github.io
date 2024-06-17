@@ -54,22 +54,68 @@ author_profile: true
 <small>X Hu, **X Zhang**</small><br>
 <small>*Journal of Machine Learning Research* 24 (358), 1-53</small><br>
 
+-----
   
 2022
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Model averaging for interval-valued data [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Y Sun, **X Zhang**, ATK Wan, S Wang</small><br>
+<small>*European Journal of Operational Research* 301 (2), 772-784</small><br>
+
+-----
 
 2021
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Time-varying model averaging [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Y Sun, Y Hong, TH Lee, S Wang, **X Zhang**</small><br>
+<small>*Journal of Econometrics* 222 (2), 974-992</small><br>
+
+* Social media sentiment, model uncertainty, and volatility forecasting [[paper](https://doi.org/xxxxxxx)]<br>
+<small>S Lehrer, T Xie, **X Zhang**</small><br>
+<small>*Economic Modelling* 102, 105556</small><br>
+
+* Forecasting Bitcoin realized volatility by exploiting measurement error under model uncertainty [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Y Qiu, Z Wang, T Xie, **X Zhang**</small><br>
+<small>*Journal of Empirical Finance* 62, 179-201</small><br>
+
+* A new study on asymptotic optimality of least squares model averaging [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**</small><br>
+<small>*Econometric Theory* 37 (2), 388-407</small><br>
+
+* Reducing simulation input-model risk via input model averaging [[paper](https://doi.org/xxxxxxx)]<br>
+<small>BL Nelson, ATK Wan, G Zou, **X Zhang**, X Jiang</small><br>
+<small>*INFORMS Journal on Computing* 33 (2), 672-684</small><br>
+
+* Model averaging prediction for time series models with a diverging number of parameters [[paper](https://doi.org/xxxxxxx)]<br>
+<small>J Liao, G Zou, Y Gao, **X Zhang**</small><br>
+<small>*Journal of Econometrics* 223 (1), 190-221</small><br>
+
+* Least squares model averaging based on generalized cross validation [[paper](https://doi.org/xxxxxxx)]<br>
+<small>X Li, G Zou, **X Zhang**, S Zhao</small><br>
+<small>*Acta Mathematicae Applicatae Sinica, English Series* 37 (3), 495-509</small><br>
+
+* Model averaging based on generalized method of moments [[paper](https://doi.org/xxxxxxx)]<br>
+<small>W Wang, Q Zhang, **X Zhang**, X Li</small><br>
+<small>*Economics Letters* 200, 109735</small><br>
+
+* Optimal model averaging based on generalized method of moments [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**</small><br>
+<small>*Statistica Sinica* 31 (4), 2103-2122</small><br>
+
+* Model averaging estimation for high-dimensional covariance matrices with a network structure [[paper](https://doi.org/xxxxxxx)]<br>
+<small>R Zhu, **X Zhang**, Y Ma, G Zou</small><br>
+<small>*The Econometrics Journal* 24 (1), 177-197</small><br>
+
+* Multimodel inference based on smoothed information criteria [[paper](https://doi.org/xxxxxxx)]<br>
+<small>S Zhao, **X Zhang**</small><br>
+<small>*Science China Mathematics* 64 (11), 2563-2578</small><br>
+
+* Model averaging of integer-valued autoregressive model with covariates [[paper](https://doi.org/xxxxxxx)]<br>
+<small>J Sun, Y Sun, **X Zhang**, B McCabe</small><br>
+<small>*Available at SSRN 3846927*</small><br>
+
+-----
+
 2020
 ======
   <ul>{% for post in site.talks reversed %}
