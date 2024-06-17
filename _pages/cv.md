@@ -331,7 +331,7 @@ author_profile: true
 <small>*Frontiers of Mathematics in China* 8, 497-515</small><br>
 
 * Choice of weights in FMA estimators under general parametric models [[paper](https://doi.org/xxxxxxx)]<br>
-<small>XY Zhang, GH Zou, H Liang</small><br>
+<small>**X Zhang**, G Zou, H Liang</small><br>
 <small>*Science China Mathematics* 56, 443-457</small><br>
 
 
@@ -339,19 +339,44 @@ author_profile: true
 
 2012
 ======
+* Focused information criteria, model selection, and model averaging in a Tobit model with a nonzero threshold [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, ATK Wan, SZ Zhou</small><br>
+<small>*Journal of Business & Economic Statistics* 30 (1), 132-142</small><br>
 
+* WALS prediction [[paper](https://doi.org/xxxxxxx)]<br>
+<small>JR Magnus, W Wang, **X Zhang**</small><br>
+<small>*Available at SSRN 2071146*</small><br>
 
 -----
 
 2011
 ======
+* Optimal weight choice for frequentist model average estimators [[paper](https://doi.org/xxxxxxx)]<br>
+<small>H Liang, G Zou, ATK Wan, **X Zhang**</small><br>
+<small>*Journal of the American Statistical Association* 106 (495), 1053-1066</small><br>
+
+* Focused information criterion and model averaging for generalized additive partial linear models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, H Liang</small><br>
+<small>*Ann. Statist.* 39 (1), 174-200</small><br>
+
+* Weighted average least squares estimation with nonspherical disturbances and an application to the Hong Kong housing market [[paper](https://doi.org/xxxxxxx)]<br>
+<small>JR Magnus, ATK Wan, **X Zhang**</small><br>
+<small>*Computational Statistics & Data Analysis* 55 (3), 1331-1341</small><br>
+
+* Model averaging method and its application in forecast [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, G Zou</small><br>
+<small>*Statistical Research* 28 (6), 97-102</small><br>
+
+
 
 
 -----
 
 2010
 ======
-
+* Least squares model averaging by Mallows criterion [[paper](https://doi.org/xxxxxxx)]<br>
+<small>ATK Wan, **X Zhang**, G Zou</small><br>
+<small>*Journal of Econometrics* 156 (2), 277-283</small><br>
 
 -----
 
