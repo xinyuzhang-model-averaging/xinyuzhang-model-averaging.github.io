@@ -10,9 +10,11 @@ author_profile: true
 
 2024
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Prediction using many samples with models possibly containing partially shared parameters [[link](https://doi.org/10.1080/07350015.2023.2166515)]
+**X Zhang**, H Liu, Y Wei, Y Ma
+*Journal of Business & Economic Statistics* 42 (1), 187-196
+
+-----
 
 2023
 ======
