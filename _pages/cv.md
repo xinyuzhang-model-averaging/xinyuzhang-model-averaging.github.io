@@ -18,20 +18,42 @@ author_profile: true
 
 2023
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Model averaging prediction by K-fold cross-validation [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, CA Liu</small><br>
+<small>*Journal of Econometrics* 235 (1), 280-301</small><br>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Antiviral effect of azvudine and nirmatrelvir-ritonavir among hospitalized patients with COVID-19 [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Y Gao, Z Luo, S Ren, Z Duan, Y Han, H Liu, Z Gao, **X Zhang**, Z Hu, Y Ma</small><br>
+<small>*The Journal of Infection* 86 (6), e158</small><br>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Optimal model averaging based on forward-validation [[paper](https://doi.org/xxxxxxx)]<br>
+<small>X Zhang, **X Zhang**</small><br>
+<small>*Journal of Econometrics* 237 (2), 105295</small><br>
+
+* Jackknife model averaging for high‐dimensional quantile regression [[paper](https://doi.org/xxxxxxx)]<br>
+<small>M Wang, **X Zhang**, ATK Wan, K You, G Zou</small><br>
+<small>*Biometrics* 79 (1), 178-189</small><br>
+
+* Penalized time-varying model averaging [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Y Sun, Y Hong, S Wang, **X Zhang**</small><br>
+<small>*Journal of Econometrics* 235 (2), 1355-1377</small><br>
+
+* Rank-based greedy model averaging for high-dimensional survival data [[paper](https://doi.org/xxxxxxx)]<br>
+<small>B He, S Ma, **X Zhang**, LX Zhu</small><br>
+<small>*Journal of the American Statistical Association* 118 (544), 2658-2670</small><br>
+
+* Reliability Estimation of -Out-of-: G System With Model Uncertainty [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Z Gao, D Yu, **X Zhang**</small><br>
+<small>*IEEE Transactions on Reliability*</small><br>
+
+* A Scalable Frequentist Model Averaging Method [[paper](https://doi.org/xxxxxxx)]<br>
+<small>R Zhu, H Wang, **X Zhang**, H Liang</small><br>
+<small>*Journal of Business & Economic Statistics* 41 (4), 1228-1237</small><br>
+
+* Optimal Parameter-Transfer Learning by Semiparametric Model Averaging [[paper](https://doi.org/xxxxxxx)]<br>
+<small>X Hu, **X Zhang**</small><br>
+<small>*Journal of Machine Learning Research* 24 (358), 1-53</small><br>
+
   
 2022
 ======
