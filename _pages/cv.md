@@ -268,6 +268,29 @@ author_profile: true
 
 2015
 ======
+* Model averaging based on Kullback-Leibler distance [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, G Zou, RJ Carroll</small><br>
+<small>*Statistica Sinica* 25, 1583</small><br>
+
+* A validated information criterion to determine the structural dimension in dimension reduction models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>Y Ma, **X Zhang**</small><br>
+<small>*Biometrika* 102 (2), 409-420</small><br>
+
+* On the selection of ordinary differential equation models with application to predator‐prey dynamical models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, J Cao, RJ Carroll</small><br>
+<small>*Biometrics* 71 (1), 131-138</small><br>
+
+* Consistency of model averaging estimators [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**</small><br>
+<small>*Economics Letters* 130, 120-123</small><br>
+
+* To pool or not to pool: What is a good strategy [[paper](https://doi.org/xxxxxxx)]<br>
+<small>R Paap, W Wang, **X Zhang**</small><br>
+<small>*Journal of Applied Econometrics* 34 (5), 724-745</small><br>
+
+* Grouped Model Averaging for Finite Sample Size [[paper](https://doi.org/xxxxxxx)]<br>
+<small>A Ullah, **X Zhang**</small><br>
+<small>*University of California at Riverside, Department of Economics Working Papers*</small><br>
 
 
 -----
