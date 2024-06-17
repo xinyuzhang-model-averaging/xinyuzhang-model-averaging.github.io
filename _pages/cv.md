@@ -121,6 +121,7 @@ author_profile: true
 * Model averaging in a multiplicative heteroscedastic model [[paper](https://doi.org/xxxxxxx)]<br>
 <small>S Zhao, Y Ma, ATK Wan, **X Zhang**, S Wang</small><br>
 <small>*Econometric Reviews* 39 (10), 1100-1124</small><br>
+
 -----
   
 2019
