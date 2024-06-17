@@ -1,21 +1,20 @@
 ---
 layout: archive
-title: "CV"
+title: "Publications"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
 
-Education
+2024
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-Work experience
+2023
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,7 +31,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+2022
 ======
 * Skill 1
 * Skill 2
@@ -41,24 +40,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+2021
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+2020
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+2019
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+2018
 ======
 * Currently signed in to 43 different slack teams
