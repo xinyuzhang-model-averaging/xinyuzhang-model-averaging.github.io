@@ -297,6 +297,13 @@ author_profile: true
 
 2014
 ======
+* Model averaging and weight choice in linear mixed-effects models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>**X Zhang**, G Zou, H Liang</small><br>
+<small>*Biometrika* 101 (1), 205-218</small><br>
+
+* Frequentist model averaging for multinomial and ordered logit models [[paper](https://doi.org/xxxxxxx)]<br>
+<small>ATK Wan, **X Zhang**, S Wang</small><br>
+<small>*International Journal of Forecasting* 30 (1), 118-128</small><br>
 
 
 -----
