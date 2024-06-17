@@ -132,7 +132,7 @@ author_profile: true
 
 * Parsimonious model averaging with a diverging number of parameters [[paper](https://doi.org/xxxxxxx)]<br>
 <small>**X Zhang**, G Zou, H Liang, RJ Carroll</small><br>
-<small>*Journal of the American Statistical Association*</small><br>
+<small>*Journal of the American Statistical Association* 115 (530), 972-984</small><br>
 
 * Optimal model averaging estimation for partially linear models [[paper](https://doi.org/xxxxxxx)]<br>
 <small>**X Zhang**, W Wang</small><br>
