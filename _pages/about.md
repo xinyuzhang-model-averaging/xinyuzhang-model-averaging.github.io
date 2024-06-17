@@ -10,4 +10,4 @@ redirect_from:
 
 Biography
 ------
-I am currently a Professor in Statistics and Econometrics at the Academy of Mathematics and Systems Science ([AMSS](http://english.amss.cas.cn/au/)) of the Chinese Academy of Sciences (CAS). I am also a Professor at the International Institute of Finance affiliated with the University of Science and Technology of China ([USTC](https://en.iif.ustc.edu.cn/main.htm))
+I am currently a Professor in Statistics and Econometrics at the Academy of Mathematics and Systems Science ([AMSS](http://english.amss.cas.cn/au/)) of the Chinese Academy of Sciences ([CAS](https://english.cas.cn/)). I am also a Professor at the International Institute of Finance affiliated with the University of Science and Technology of China ([USTC](https://en.iif.ustc.edu.cn/main.htm))
