@@ -10,8 +10,8 @@ author_profile: true
 
 2024
 ======
-* Prediction using many samples with models possibly containing partially shared parameters [[link](https://doi.org/10.1080/07350015.2023.2166515)]
-**X Zhang**, H Liu, Y Wei, Y Ma
+* Prediction using many samples with models possibly containing partially shared parameters [[link](https://doi.org/10.1080/07350015.2023.2166515)]<br>
+**X Zhang**, H Liu, Y Wei, Y Ma<br>
 *Journal of Business & Economic Statistics* 42 (1), 187-196
 
 -----
