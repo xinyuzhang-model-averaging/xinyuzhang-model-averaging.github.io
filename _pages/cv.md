@@ -12,7 +12,7 @@ author_profile: true
 ======
 * Prediction using many samples with models possibly containing partially shared parameters [[paper](https://doi.org/10.1080/07350015.2023.2166515)]<br>
 <small>**X Zhang**, H Liu, Y Wei, Y Ma</small><br>
-*Journal of Business & Economic Statistics* 42 (1), 187-196
+<small>*Journal of Business & Economic Statistics* 42 (1), 187-196</small>
 
 -----
 
