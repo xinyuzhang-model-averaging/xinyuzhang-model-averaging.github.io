@@ -44,7 +44,7 @@ author_profile: true
 
 * Reliability estimation of k-Out-of-n: G system with model uncertainty [[paper](https://doi.org/10.1109/tr.2023.3328842)]<br>
 <small>Z Gao, D Yu, **X Zhang**</small><br>
-<small>*IEEE Transactions on Reliability*</small><br>
+<small>*IEEE Transactions on Reliability* 73 (2), 978-989</small><br>
 
 * A scalable frequentist model averaging method [[paper](https://doi.org/10.1080/07350015.2022.2116442)]<br>
 <small>R Zhu, H Wang, **X Zhang**, H Liang</small><br>
