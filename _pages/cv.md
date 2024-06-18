@@ -18,23 +18,23 @@ author_profile: true
 
 2023
 ======
-* Model averaging prediction by K-fold cross-validation [[paper](https://doi.org/xxxxxxx)]<br>
+* Model averaging prediction by K-fold cross-validation [[paper](https://doi.org/10.1016/j.jeconom.2022.04.007)]<br>
 <small>**X Zhang**, CA Liu</small><br>
 <small>*Journal of Econometrics* 235 (1), 280-301</small><br>
 
-* Antiviral effect of azvudine and nirmatrelvir-ritonavir among hospitalized patients with COVID-19 [[paper](https://doi.org/xxxxxxx)]<br>
+* Antiviral effect of azvudine and nirmatrelvir-ritonavir among hospitalized patients with COVID-19 [[paper](https://doi.org/10.1016/j.jinf.2023.03.023)]<br>
 <small>Y Gao, Z Luo, S Ren, Z Duan, Y Han, H Liu, Z Gao, **X Zhang**, Z Hu, Y Ma</small><br>
 <small>*The Journal of Infection* 86 (6), e158</small><br>
 
-* Optimal model averaging based on forward-validation [[paper](https://doi.org/xxxxxxx)]<br>
+* Optimal model averaging based on forward-validation [[paper](https://doi.org/10.1016/j.jeconom.2022.03.010)]<br>
 <small>X Zhang, **X Zhang**</small><br>
 <small>*Journal of Econometrics* 237 (2), 105295</small><br>
 
-* Jackknife model averaging for high‐dimensional quantile regression [[paper](https://doi.org/xxxxxxx)]<br>
+* Jackknife model averaging for high‐dimensional quantile regression [[paper](https://doi.org/10.1111/biom.13574)]<br>
 <small>M Wang, **X Zhang**, ATK Wan, K You, G Zou</small><br>
 <small>*Biometrics* 79 (1), 178-189</small><br>
 
-* Penalized time-varying model averaging [[paper](https://doi.org/xxxxxxx)]<br>
+* Penalized time-varying model averaging [[paper](https://doi.org/10.1016/j.jeconom.2022.09.007)]<br>
 <small>Y Sun, Y Hong, S Wang, **X Zhang**</small><br>
 <small>*Journal of Econometrics* 235 (2), 1355-1377</small><br>
 
