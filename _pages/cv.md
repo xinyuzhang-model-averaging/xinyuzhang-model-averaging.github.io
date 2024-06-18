@@ -106,7 +106,7 @@ author_profile: true
 <small>R Zhu, **X Zhang**, Y Ma, G Zou</small><br>
 <small>*The Econometrics Journal* 24 (1), 177-197</small><br>
 
-* Multimodel inference based on smoothed information criteria [[paper](https://doi.org/10.1093/ectj/utaa030)]<br>
+* Multimodel inference based on smoothed information criteria [[paper](https://doi.org/10.1007/s11425-020-1798-y)]<br>
 <small>S Zhao, **X Zhang**</small><br>
 <small>*Science China Mathematics* 64 (11), 2563-2578</small><br>
 
