@@ -94,7 +94,7 @@ author_profile: true
 <small>X Li, G Zou, **X Zhang**, S Zhao</small><br>
 <small>*Acta Mathematicae Applicatae Sinica, English Series* 37 (3), 495-509</small><br>
 
-* Model averaging based on generalized method of moments [[paper](https://doi.org/10.5705/ss.202019.0230)]<br>
+* Model averaging based on generalized method of moments [[paper](https://doi.org/10.1016/j.econlet.2021.109735)]<br>
 <small>W Wang, Q Zhang, **X Zhang**, X Li</small><br>
 <small>*Economics Letters* 200, 109735</small><br>
 
