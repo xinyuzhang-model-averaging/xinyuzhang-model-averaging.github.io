@@ -102,7 +102,7 @@ author_profile: true
 <small>**X Zhang**</small><br>
 <small>*Statistica Sinica* 31 (4), 2103-2122</small><br>
 
-* Model averaging estimation for high-dimensional covariance matrices with a network structure [[paper](https://doi.org/xxxxxxx)]<br>
+* Model averaging estimation for high-dimensional covariance matrices with a network structure [[paper](https://doi.org/10.1093/ectj/utaa030)]<br>
 <small>R Zhu, **X Zhang**, Y Ma, G Zou</small><br>
 <small>*The Econometrics Journal* 24 (1), 177-197</small><br>
 
@@ -189,7 +189,7 @@ author_profile: true
 <small>**X Zhang**, JM Chiou, Y Ma</small><br>
 <small>*Biometrika* 105 (4), 945-962</small><br>
 
-* Model averaging for multivariate multiple regression models [[paper](https://doi.org/xxxxxxx)]<br>
+* Model averaging for multivariate multiple regression models [[paper](https://doi.org/10.1080/02331888.2017.1367794)]<br>
 <small>R Zhu, G Zou, **X Zhang**</small><br>
 <small>*Statistics* 52 (1), 205-227</small><br>
 
