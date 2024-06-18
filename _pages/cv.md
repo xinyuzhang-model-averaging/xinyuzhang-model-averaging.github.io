@@ -126,7 +126,7 @@ author_profile: true
   
 2019
 ======
-* Inference after model averaging in linear regression models [[paper](https://doi.org/10.2139/ssrn.3039829)]<br>
+* Inference after model averaging in linear regression models [[paper](https://doi.org/10.1017/s0266466618000269)]<br>
 <small>**X Zhang**, CA Liu</small><br>
 <small>*Econometric Theory* 35 (4), 816-841</small><br>
 
@@ -146,7 +146,7 @@ author_profile: true
 <small>Y Qiu, **X Zhang**, T Xie, S Zhao</small><br>
 <small>*Journal of Management Science and Engineering* 4 (1), 55-73</small><br>
 
-* A demand forecasting method based on stochastic frontier analysis and model average: An application in air travel demand forecasting [[paper](https://doi.org/10.4324/9781351215503-7)]<br>
+* A demand forecasting method based on stochastic frontier analysis and model average: An application in air travel demand forecasting [[paper](https://doi.org/10.1007/s11424-018-7093-0)]<br>
 <small>**X Zhang**, Y Zheng, S Wang</small><br>
 <small>*Journal of Systems Science and Complexity* 32 (2), 615-633</small><br>
 
@@ -154,7 +154,7 @@ author_profile: true
 <small>J Liao, X Zong, **X Zhang**, G Zou</small><br>
 <small>*Journal of Econometrics* 209 (1), 35-60</small><br>
 
-* To pool or not to pool: What is a good strategy for parameter estimation and forecasting in panel regressions? [[paper](https://doi.org/10.2139/ssrn.3123076)]<br>
+* To pool or not to pool: What is a good strategy for parameter estimation and forecasting in panel regressions? [[paper](https://doi.org/10.1002/jae.2696)]<br>
 <small>W Wang, **X Zhang**, R Paap</small><br>
 <small>*Journal of Applied Econometrics* 34 (5), 724-745</small><br>
 
@@ -193,7 +193,7 @@ author_profile: true
 <small>R Zhu, G Zou, **X Zhang**</small><br>
 <small>*Statistics* 52 (1), 205-227</small><br>
 
-* Asymptotic properties and information criteria for misspecified generalized linear mixed models [[paper](https://doi.org/10.1080/02331888.2017.1367794)]<br>
+* Asymptotic properties and information criteria for misspecified generalized linear mixed models [[paper](https://doi.org/10.1111/rssb.12270)]<br>
 <small>D Yu, **X Zhang**, KKW Yau</small><br>
 <small>*Journal of the Royal Statistical Society Series B: Statistical Methodology* 80 (4), 817-836</small><br>
 
