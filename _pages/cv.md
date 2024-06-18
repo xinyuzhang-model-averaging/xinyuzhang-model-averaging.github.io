@@ -174,7 +174,8 @@ author_profile: true
 <small>M Wang, **X Zhang**, ATK Wan, G Zou</small><br>
 <small>*arXiv preprint arXiv:1910.12208*</small><br>
 
-  
+-----
+
 2018
 ======
 * Spatial weights matrix selection and model averaging for spatial autoregressive models [[paper](https://doi.org/10.1016/j.jeconom.2017.05.021)]<br>
